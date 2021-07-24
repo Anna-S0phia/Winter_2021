@@ -13,9 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Anna-S0phia.github.io/Winter_2021/manifests/1canvas2images",
     "label" : "Mountains & stars (1 canvas, 2 images)"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://Anna-S0phia.github.io/Winter_2021/manifests/Winteradventures-annotated",
-    "label" : "Snowshoeing 2021"
   } ]
 }
